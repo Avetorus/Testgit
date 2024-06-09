@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>halaman beranda</h1>
+    <h1>beranda</h1>
+    <h1>beranda</h1>
 </body>
 </html>
