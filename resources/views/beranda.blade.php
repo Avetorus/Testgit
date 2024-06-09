@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>beranda</h1>
+    <h2>beranda</h2>
     <h1>beranda</h1>
 </body>
 </html>
